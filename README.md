@@ -1,0 +1,2 @@
+- Beginner python scripter
+- Hoping to learn python, C#, and Java eventually
